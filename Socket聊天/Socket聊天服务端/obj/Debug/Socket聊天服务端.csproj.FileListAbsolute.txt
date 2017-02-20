@@ -1,0 +1,26 @@
+G:\BaiduYunDownload\Asp.Net学习笔记\3.聊天程序 模拟IIS\Socket聊天服务端\Socket聊天服务端\bin\Debug\Socket聊天服务端.exe.config
+G:\BaiduYunDownload\Asp.Net学习笔记\3.聊天程序 模拟IIS\Socket聊天服务端\Socket聊天服务端\bin\Debug\Socket聊天服务端.exe
+G:\BaiduYunDownload\Asp.Net学习笔记\3.聊天程序 模拟IIS\Socket聊天服务端\Socket聊天服务端\bin\Debug\Socket聊天服务端.pdb
+G:\BaiduYunDownload\Asp.Net学习笔记\3.聊天程序 模拟IIS\Socket聊天服务端\Socket聊天服务端\obj\Debug\Socket聊天服务端.csprojResolveAssemblyReference.cache
+G:\BaiduYunDownload\Asp.Net学习笔记\3.聊天程序 模拟IIS\Socket聊天服务端\Socket聊天服务端\obj\Debug\Socket聊天服务端.FrmMain.resources
+G:\BaiduYunDownload\Asp.Net学习笔记\3.聊天程序 模拟IIS\Socket聊天服务端\Socket聊天服务端\obj\Debug\Socket聊天服务端.Properties.Resources.resources
+G:\BaiduYunDownload\Asp.Net学习笔记\3.聊天程序 模拟IIS\Socket聊天服务端\Socket聊天服务端\obj\Debug\Socket聊天服务端.csproj.GenerateResource.Cache
+G:\BaiduYunDownload\Asp.Net学习笔记\3.聊天程序 模拟IIS\Socket聊天服务端\Socket聊天服务端\obj\Debug\Socket聊天服务端.exe
+G:\BaiduYunDownload\Asp.Net学习笔记\3.聊天程序 模拟IIS\Socket聊天服务端\Socket聊天服务端\obj\Debug\Socket聊天服务端.pdb
+G:\Socket聊天\Socket聊天服务端\Socket聊天服务端\bin\Debug\Socket聊天服务端.exe.config
+G:\Socket聊天\Socket聊天服务端\Socket聊天服务端\obj\Debug\Socket聊天服务端.exe
+G:\Socket聊天\Socket聊天服务端\Socket聊天服务端\obj\Debug\Socket聊天服务端.pdb
+G:\Socket聊天\Socket聊天服务端\Socket聊天服务端\bin\Debug\Socket聊天服务端.exe
+G:\Socket聊天\Socket聊天服务端\Socket聊天服务端\bin\Debug\Socket聊天服务端.pdb
+G:\Socket聊天\Socket聊天服务端\Socket聊天服务端\obj\Debug\Socket聊天服务端.FrmMain.resources
+G:\Socket聊天\Socket聊天服务端\Socket聊天服务端\obj\Debug\Socket聊天服务端.Properties.Resources.resources
+G:\Socket聊天\Socket聊天服务端\Socket聊天服务端\obj\Debug\Socket聊天服务端.csproj.GenerateResource.Cache
+G:\Socket聊天\Socket聊天服务端\bin\Debug\Socket聊天服务端.exe.config
+G:\Socket聊天\Socket聊天服务端\obj\Debug\Socket聊天服务端.exe
+G:\Socket聊天\Socket聊天服务端\obj\Debug\Socket聊天服务端.pdb
+G:\Socket聊天\Socket聊天服务端\bin\Debug\Socket聊天服务端.exe
+G:\Socket聊天\Socket聊天服务端\bin\Debug\Socket聊天服务端.pdb
+G:\Socket聊天\Socket聊天服务端\obj\Debug\Socket聊天服务端.csprojResolveAssemblyReference.cache
+G:\Socket聊天\Socket聊天服务端\obj\Debug\Socket聊天服务端.FrmMain.resources
+G:\Socket聊天\Socket聊天服务端\obj\Debug\Socket聊天服务端.Properties.Resources.resources
+G:\Socket聊天\Socket聊天服务端\obj\Debug\Socket聊天服务端.csproj.GenerateResource.Cache
