@@ -23,7 +23,7 @@
         #region Windows 窗体设计器生成的代码
 
         /// <summary>
-        /// 设计器支持所需的方法 - 不要修改
+        /// 设计器支持所需的方法 - 不要
         /// 使用代码编辑器修改此方法的内容。
         /// </summary>
         private void InitializeComponent()
@@ -81,7 +81,7 @@
             this.txtPort.Name = "txtPort";
             this.txtPort.Size = new System.Drawing.Size(92, 21);
             this.txtPort.TabIndex = 7;
-            this.txtPort.Text = "5555";
+            this.txtPort.Text = "6666";
             // 
             // label2
             // 
@@ -122,8 +122,6 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.txtIp);
             this.Controls.Add(this.label1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.MaximizeBox = false;
             this.Name = "FrmMain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Socket聊天客户端";

@@ -4,7 +4,10 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Net;
+using System.Net.Sockets;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -22,7 +25,24 @@ namespace Socket聊天客户端
         /// </summary>
         private void btnConnect_Click(object sender, EventArgs e)
         {
+            //创建Socket对象
+            Socket socket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
 
+            try
+            {
+                //连接服务器
+                socket.Connect(IPAddress.Parse(txtIp.Text), int.Parse(txtPort.Text));
+            }
+            catch (Exception)
+            {
+                //Thread.Sleep(500);
+                //btnConnect_Click(this, e);
+
+                MessageBox.Show("出现异常，请重新连接！");
+                return;
+            }
+
+            //接收消息
         }
 
         /// <summary>
@@ -44,9 +64,6 @@ namespace Socket聊天客户端
             }
         }
 
-        /// <summary>
-        /// 客户端发送消息
-        /// </summary>
         private void btnSend_Click(object sender, EventArgs e)
         {
 
@@ -54,6 +71,7 @@ namespace Socket聊天客户端
 
         private void txtMsg_PreviewKeyDown(object sender, PreviewKeyDownEventArgs e)
         {
+            //按下回车发送信息
             if (e.KeyValue == 13)
             {
                 btnSend_Click(this, e);

@@ -1,0 +1,9 @@
+D:\Study\vs2012 projects\Socket聊天\Socket聊天客户端\bin\Debug\Socket聊天客户端.exe.config
+D:\Study\vs2012 projects\Socket聊天\Socket聊天客户端\bin\Debug\Socket聊天客户端.exe
+D:\Study\vs2012 projects\Socket聊天\Socket聊天客户端\bin\Debug\Socket聊天客户端.pdb
+D:\Study\vs2012 projects\Socket聊天\Socket聊天客户端\obj\Debug\Socket聊天客户端.csprojResolveAssemblyReference.cache
+D:\Study\vs2012 projects\Socket聊天\Socket聊天客户端\obj\Debug\Socket聊天客户端.FrmMain.resources
+D:\Study\vs2012 projects\Socket聊天\Socket聊天客户端\obj\Debug\Socket聊天客户端.Properties.Resources.resources
+D:\Study\vs2012 projects\Socket聊天\Socket聊天客户端\obj\Debug\Socket聊天客户端.csproj.GenerateResource.Cache
+D:\Study\vs2012 projects\Socket聊天\Socket聊天客户端\obj\Debug\Socket聊天客户端.exe
+D:\Study\vs2012 projects\Socket聊天\Socket聊天客户端\obj\Debug\Socket聊天客户端.pdb

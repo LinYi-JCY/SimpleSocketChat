@@ -80,7 +80,7 @@
             this.txtPort.Name = "txtPort";
             this.txtPort.Size = new System.Drawing.Size(92, 21);
             this.txtPort.TabIndex = 1;
-            this.txtPort.Text = "5555";
+            this.txtPort.Text = "6666";
             // 
             // txtLog
             // 

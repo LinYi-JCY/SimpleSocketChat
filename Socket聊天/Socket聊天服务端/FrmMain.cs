@@ -96,7 +96,7 @@ namespace Socket聊天服务端
                     return;
                 }
 
-                string msg = Encoding.Default.GetString(data).TrimEnd('\0');
+                string msg = Encoding.Default.GetString(data);
                 AppendTextToTxtLog("[" + proxSocket.RemoteEndPoint + "]：" + msg);
             }
         }
@@ -144,7 +144,7 @@ namespace Socket聊天服务端
             //按下回车发送信息
             if (e.KeyValue == 13)
             {
-                btnSend_Click(this, e);
+                btnSend_Click(btnSend, null);
             }
         }
     }
